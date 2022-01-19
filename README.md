@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubhamp2003
+- 👋 Hi, I’m Shubham S Pant
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++ projects
