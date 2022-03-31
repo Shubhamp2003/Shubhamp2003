@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham S Pant
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++ projects
+- 🌱 I’m currently learning C, HTML5, CSS and JavaScript. 
+
 - 📫 instagram - Shu_Bham_2003 , Twitter - _shubhampant _
 
 
