@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Shubham S Pant
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning C/c++. 
-
-- 📫 
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Networking and Algorithm
+- 📫 You can follow me on Github
 
 
 <!---
