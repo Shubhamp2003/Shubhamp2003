@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham S Pant
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Networking and Algorithm
-- 📫 You can follow me on Github
+- 👀 I’m interested in building projects
+- 🌱 I’m currently learning Cloud Computing and Data Analytics
+- 📫 You can follow me on linkedin, github & instagram
 
 
 <!---
